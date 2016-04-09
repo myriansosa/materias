@@ -24,7 +24,7 @@ Este proyecto es para aprender
  varias líneas
  ```
 
-esto es una prueba de practica 
-negrita negrita 
+**esta groso**
+
 
 
